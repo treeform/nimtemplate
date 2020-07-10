@@ -2,6 +2,6 @@
 
 This template includes:
 * MIT licence
-* src direcotry and a private common.nim
-* test direcotry
-* github actions to run the tests on github
+* src directory and a private common.nim
+* test directory
+* GitHub Actions to run the tests on GitHub
