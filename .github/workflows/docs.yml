@@ -11,8 +11,8 @@ jobs:
   docs:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: jiro4989/setup-nim-action@v1
+      - uses: actions/checkout@v4
+      - uses: jiro4989/setup-nim-action@v2
         with:
           nim-version: ${{ env.nim-version }}
       - run: nimble install -Y
