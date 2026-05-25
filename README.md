@@ -1,5 +1,3 @@
-<img src="docs/nimtemplateBanner.png">
-
 # nimtemplate - A starter template for Nim libraries and projects.
 
 `nimby install nimtemplate`
