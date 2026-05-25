@@ -1,6 +1,6 @@
 version     = "0.0.0"
-author      = "Your name"
-description = "Description of your library"
+author      = "treeform"
+description = "A starter template for Nim libraries and projects"
 license     = "MIT"
 
 srcDir = "src"
