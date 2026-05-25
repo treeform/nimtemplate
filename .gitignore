@@ -1,12 +1,20 @@
-# ignore files with no extention:
+# Ignore files with no extention.
 *
 !*/
 !*.*
+!LICENSE
 
-# normal ignores:
+# Ignore hidden files, but not the license or github files.
+.*
+!.github/
+!.github/**
+!.gitignore
+
+# Normal ignores.
 *.exe
 nimcache
 *.pdb
 *.ilk
 *.out
-.*
+
+# Project specific ignores.

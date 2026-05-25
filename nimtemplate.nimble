@@ -1,5 +1,5 @@
 version     = "0.0.0"
-author      = "Your name"
+author      = "Author"
 description = "Description of your library"
 license     = "MIT"
 
